@@ -23,8 +23,7 @@
 
 ![Dashboard Preview](https://img.shields.io/badge/⚡_Live_Demo-Try_Now-7c3aed?style=for-the-badge)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/yourusername/GrowthOS?style=for-the-badge&color=f59e0b)
-&nbsp;
+![Stars](https://img.shields.io/github/stars/Aryan150704/GrowthOS?style=for-the-badge&color=f59e0b)
 ![License](https://img.shields.io/badge/license-MIT-2563eb?style=for-the-badge)
 
 </div>
