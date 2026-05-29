@@ -314,7 +314,7 @@ git checkout -b feature/your-feature-name
 # Make your changes to GrowthOS.html
 git commit -m "feat: add your feature"
 git push origin feature/your-feature-name
-# Open a Pull Request
+# Open a Pull Request → https://github.com/Aryan150704/GrowthOS
 ```
 
 Please keep contributions to the **single-file architecture** unless there's a very strong reason to split.
