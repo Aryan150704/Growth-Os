@@ -21,7 +21,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/⚡_Live_Demo-Try_Now-7c3aed?style=for-the-badge)](https://aryan150704.github.io/Growth-Os/GrowthOS.html)
+[![Live Demo](https://img.shields.io/badge/⚡_Live_Demo-Try_Now-7c3aed?style=for-the-badge)](https://aryan150704.github.io/Growth-Os)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Aryan150704/Growth-Os?style=for-the-badge&color=f59e0b)
 &nbsp;
