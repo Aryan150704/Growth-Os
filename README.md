@@ -125,7 +125,7 @@ Build Tools     →  None — single file, zero build step
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/GrowthOS.git
+git clone https://github.com/Aryan150704/GrowthOS.git
 
 # Open in browser — that's it
 open GrowthOS.html
